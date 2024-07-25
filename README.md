@@ -1,9 +1,9 @@
 
 # 🔎 osu! Username Finder
-
 <p align="center">
 🔎 Script that (ab)use the osu! endpoints to find an username and get more details about its availability and such more (remaining time to claim it, etc...)
-![image](https://github.com/user-attachments/assets/d70dfa89-5b94-40ac-9439-5644562a588c)
+
+<img src="https://raw.githubusercontent.com/Maous-B/osu-UsernameFinder/master/pictures/Available.PNG" alt="Example">
 </p>
 
 
@@ -52,8 +52,11 @@ To find the cookies values, please refer to the guide on how to find your cookie
 
 # ❓ How can I find my cookies values (XRSF_TOKEN / OSU_SESSION)
 
+<p align="center">
 When logged in and authentificated with a valid osu! account in the website, press F12 > Application > Cookies and copy and paste your XRSF_TOKEN and OSU_SESSION cookies values inside of the ``.env`` file to make it work
+<img src="https://github.com/Maous-B/osu-UsernameFinder/blob/master/pictures/Chrome%20WebDev%20Tools.png?raw=true" alt="Tutorial on how to find cookies sessions">
+</p>
 
 # 📖 Usage 
 
-To run the script, type ``node app.js <username to check>`` or ``npm run start`` inside of the root project
+To run the script, type ``node app.js <username to check>`` or ``npm run start <username to check`` inside of the root project
