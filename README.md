@@ -2,8 +2,11 @@
 # 🔎 osu! Username Finder
 
 <p align="center">
-🔎 Script that (ab)use the osu! endpoints to find an username and get more details about its availability and such more (remaining time to claim it, etc...) !
-![hi lol](https://github.com/Maous-B/osu-UsernameFinder/blob/master/pictures/Already%20in%20use%20or%20not%20available.PNG)
+🔎 Script that (ab)use the osu! endpoints to find an username and get more details about its availability and such more (remaining time to claim it, etc...)
+![image](https://github.com/user-attachments/assets/d70dfa89-5b94-40ac-9439-5644562a588c)
+
+
+
 </p>
 
 
