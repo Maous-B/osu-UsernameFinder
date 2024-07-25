@@ -9,7 +9,7 @@
 
 # ❓ Why this project ? 
 
-Firstly, I was intersted with the [Amnezzia's ign Finder](https://github.com/amnezziaa/ignFinder). However, the project was very limited because it only checks if the status code of the ``HTTP GET`` request is ``OK (202) (username can't be claimable)`` or ``NOT FOUND (404) (username can be claimable)`` and doesn't give more details because an username's user can be claimable if the profile is inactive and yet it returns a 202 response. Then, I was thinking about the game osu! and how can I get more details about an username and its availibility
+Firstly, I was intersted with the [Amnezzia's ign Finder](https://github.com/amnezziaa/ignFinder). However, the project was very limited because it only checks if the status code of the ``HTTP GET`` request is ``OK (202) (username can't be claimable)`` or ``NOT FOUND (404) (username can be claimable)`` and doesn't give more details because an username's user can be claimable if the profile is inactive and yet it returns a 202 response. Then, I was thinking about the game osu! and how can I get more details about an username and its availibility.
 
 # 📝 How it works
 I was curious on how osu! check if a username is available or not and I went to [the osu! username change webpage](https://osu.ppy.sh/store/products/username-change) and I started intercepting requests. I've found that they do a POST request to ``https://osu.ppy.sh/users/check-username-availability`` with the parameter ``username`` when I enter an username. The thing I did is I copied the whole request and added my ``OSU_SESSION`` and ``XRSF_TOKEN`` cookies values to imitate it.
