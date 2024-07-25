@@ -3,7 +3,16 @@
 <p align="center">
 🔎 Script that (ab)use the osu! endpoints to find an username and get more details about its availability and such more (remaining time to claim it, etc...)
 
-<img src="https://raw.githubusercontent.com/Maous-B/osu-UsernameFinder/master/pictures/Available.PNG" alt="Example">
+Here are some examples
+
+Available : 
+<img src="https://raw.githubusercontent.com/Maous-B/osu-UsernameFinder/master/pictures/Available.PNG" alt="Available">
+
+Already in use : 
+<img src="https://raw.githubusercontent.com/Maous-B/osu-UsernameFinder/master/pictures/Already%20in%20use%20or%20not%20available.PNG"  alt="Already in use">
+
+Will be available : 
+<img src="https://raw.githubusercontent.com/Maous-B/osu-UsernameFinder/master/pictures/Will%20be%20available.PNG"  alt="Will be available">
 </p>
 
 
