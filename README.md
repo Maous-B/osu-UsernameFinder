@@ -43,7 +43,7 @@ the JSON response format for the username mrekk :
     
 3. Add the XRSF_TOKEN and the OSU_SESSION cookies value inside of the ``.env`` file
 
-To find the cookies values, please refer to the guide on how to find your cookies sessions [here](https://google.com)
+To find the cookies values, please refer to the guide on how to find your cookies sessions [here](https://github.com/Maous-B/osu-UsernameFinder/blob/master/README.md#-how-can-i-find-my-cookies-values-xrsf_token--osu_session)
 
 ```bash
   XSRF_TOKEN="xsrf_token cookie value here !"
