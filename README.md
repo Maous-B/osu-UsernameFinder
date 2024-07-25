@@ -3,7 +3,7 @@
 
 <p align="center">
 🔎 Script that (ab)use the osu! endpoints to find an username and get more details about its availability and such more (remaining time to claim it, etc...) !
-![hi lol](https://github.com/Maous-B/osu-UsernameFinder/blob/master/pictures/Already%20in%20use%20or%20not%20available.PNG?raw=true)
+![hi lol](https://github.com/Maous-B/osu-UsernameFinder/blob/master/pictures/Already%20in%20use%20or%20not%20available.PNG)
 </p>
 
 
